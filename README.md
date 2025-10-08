@@ -8,9 +8,9 @@ Welcome to my professional portfolio! This repository is designed as a central h
 
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-  - [Tech Consulting Industry Data Analysis & Visualization](#tech-consulting-industry-data-analysis--visualization)
-  - [Data Analysis Freelance Work](#data-analysis-freelance-work)
-  - [Cvent Internship Slideshow](#cvent-internship-slideshow)
+  - [Tech Consulting Industry Data Analysis](#tech-consulting-industry-data-analysis)
+  - [Upcoming Data Analysis Initiative](#upcoming-data-analysis-initiative)
+  - [Cvent Internship Exhibit](#cvent-internship-exhibit)
 - [Technical Skills](#technical-skills)
 - [Contact](#contact)
 
@@ -18,16 +18,16 @@ Welcome to my professional portfolio! This repository is designed as a central h
 
 ## About Me
 
-I am passionate about data analysis, business intelligence, and creating actionable insights from complex information. My portfolio demonstrates hands-on experience with Python, Power BI, and econometrics, alongside real-world internship applications of event technologies.
+I am passionate about turning complex data into actionable insights. My portfolio demonstrates hands-on experience with Python, Power BI, Excel, and more, complemented by real-world applications of event technologies and data workflows.
 
 ---
 
 ## Portfolio Projects
 
-### Tech Consulting Industry Data Analysis & Visualization
+### Tech Consulting Industry Data Analysis
 
-An econometrics analysis focused on how industry affects annual salary earnings.  
-- Python/Jupyter Notebook: Data Cleaning & Transformation
+An econometrics analysis focused on how industry affects annual salary earnings. Logistic regression, hypothesis testing, and predictive analytics are just a few of the skills applied to this project. 
+- Excel/Python: Data Cleaning & Transformation
 - Power BI: Data Visualization & Modeling 
 
 **Repository Contents:**
@@ -40,33 +40,33 @@ An econometrics analysis focused on how industry affects annual salary earnings.
 
 ---
 
-### Data Analysis Freelance Work
+### Upcoming Data Analysis Initiative
 
-A live, ongoing project where I provide data analysis services to companies in need.  
-- Python: Data Cleaning & Transformation 
-- Power BI: Analytical Tools & Visualization
+This section is reserved for future data analysis work designed to expand my portfolio with diverse datasets and complex requirements. Planned work will demonstrate my ability to approach new problems, document workflows, and create actionable insights using various data analysis tools & software.  
 
-**Repository Contents:**
-- [Python scripts for data preparation](#) *Currently in progress
-- [Download BI Report to BI Desktop](#) *Currently in progress
+**Repository Contents (planned):**
+- [Excel functions for data cleaning and transformation](#) (*in progress*)
+- [Python scripts for data preparation](#) (*in progress*)
+- [Power BI Report File](#) (*in progress*)
 <!--Summary of findings and impact _______. > Use Microsoft Word Link-->
 
 ---
 
-### Cvent Internship Slideshow
+### Cvent Internship Exhibit
 
-A visual presentation summarizing my key contributions and learnings from my internship at Cvent. 
-- Google Slides: Presentation Formatting & Visualization 
+A visual presentation summarizing my projects from my internship at Cvent including an AI & VR Development and a Churn Rate KPI trend analysis. 
+- Google Slides: Presentation, Formatting, & Visualization 
 
 **Repository Contents:**
-- [Slideshow Presentation](https://docs.google.com/presentation/d/1UGX9AcmMDul_DL1oNOC_OI2Dz0z3a5-gghoVLblCCtU/edit?usp=sharing)
+- [Exhibit Presentation](https://docs.google.com/presentation/d/1UGX9AcmMDul_DL1oNOC_OI2Dz0z3a5-gghoVLblCCtU/edit?usp=sharing)
 
 ---
 
 ## Technical Skills
 
+- **Excel:** Structured data organization, filtering/sorting, data validation
 - **Python:** Data cleaning, transformation, and automation
-- **Power BI:** Data visualization, report generation, business intelligence
+- **Power BI:** Data visualization, report generation, business intelligence 
 - **Econometrics:** Regression analysis, statistical modeling
 
 ## Contact
@@ -74,8 +74,8 @@ A visual presentation summarizing my key contributions and learnings from my int
 Feel free to reach out if you’d like to learn more about my work or discuss opportunities!
 
 - **Email:** [jkress0902@gmail.com](mailto:jkress0902@gmail.com)
-- **LinkedIn:** [Jonah Kress](https://www.linkedin.com/in/jonahkress)
-- **GitHub:** [jkress0902-bit](https://github.com/jkress0902-bit)
+- **LinkedIn:** [Jonah-Kress](https://www.linkedin.com/in/jonahkress)
+- **GitHub Profile:** [jkress0902-bit](https://github.com/jkress0902-bit)
 
 ---
 
