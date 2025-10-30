@@ -8,7 +8,7 @@ Welcome to my professional portfolio! This repository is designed as a central h
 
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-  - [Tech Consulting Industry Data Analysis](#tech-consulting-industry-data-analysis)
+  - [Regression Honors Thesis: Industry Data Analysis](#regression-honors-thesis-industry-data-analysis)
   - [Upcoming Data Analysis Initiative](#upcoming-data-analysis-initiative)
   - [Cvent Internship Exhibit](#cvent-internship-exhibit)
 - [Technical Skills](#technical-skills)
@@ -24,11 +24,12 @@ I am passionate about turning complex data into actionable insights. My portfoli
 
 ## Portfolio Projects
 
-### Tech Consulting Industry Data Analysis
+### Regression Honors Thesis: Industry Data Analysis
 
 An econometrics analysis focused on how industry affects annual salary earnings. Logistic regression, hypothesis testing, and predictive analytics are just a few of the skills applied to this project. 
 - Excel/Python: Data Cleaning & Transformation
 - Power BI: Data Visualization & Modeling 
+- Stata: Original Data Cleaning & Modeling
 
 **Repository Contents:**
 - [Python scripts for data cleaning](Analysis.ipynb)
@@ -36,6 +37,7 @@ An econometrics analysis focused on how industry affects annual salary earnings.
 - [Download Power BI Report to BI Desktop](EconometricsBI.pbix)
   - [BI Report Page 1 Screenshot](Report1.png)
   - [BI Report Page 2 Screenshot](Report2.png)
+- [Published Research Article: Econometrics Thesis](RegressionThesis.pdf)
 - [Original video analysis of Stata utilization](https://drive.google.com/file/d/1M5DqL5QRS9ZU_MnxDGwxunX1IWCF1baa/view?usp=drive_link)
 
 ---
