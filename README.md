@@ -9,7 +9,7 @@ Welcome to my professional portfolio! This repository is designed as a central h
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [Regression Honors Thesis: Industry Data Analysis](#regression-honors-thesis-industry-data-analysis)
-  - [Upcoming Data Analysis Initiative](#upcoming-data-analysis-initiative)
+  - [Data Analysis Initiatives](#data-analysis-initiatives)
   - [Cvent Internship Exhibit](#cvent-internship-exhibit)
 - [Technical Skills](#technical-skills)
 - [Contact](#contact)
@@ -42,12 +42,16 @@ An econometrics analysis focused on how industry affects annual salary earnings.
 
 ---
 
-### Upcoming Data Analysis Initiative
+### Data Analysis Initiatives
 
 This section displays my freelance data analysis work designed to expand my portfolio with diverse datasets and complex requirements.   
 
 **Repository Contents:**
-- [SQL Data Cleaning Showcase](Data%20Cleaning%20Project.sql)
+
+\- Completed Work
+- [SQL Data Cleaning Showcase - Layoffs around the World](Data%20Cleaning%20Project.sql)
+
+\- Still In Progress
 - [Excel functions for data cleaning and transformation](#) (*in progress*)
 - [Python scripts for data preparation](#) (*in progress*)
 - [Power BI Report File](#) (*in progress*)
