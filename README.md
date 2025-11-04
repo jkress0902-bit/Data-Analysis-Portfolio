@@ -47,7 +47,7 @@ An econometrics analysis focused on how industry affects annual salary earnings.
 This section displays my freelance data analysis work designed to expand my portfolio with diverse datasets and complex requirements.   
 
 **Repository Contents:**
-- [SQL Data Cleaning Showcase]()
+- [SQL Data Cleaning Showcase](Data%20Cleaning%20Project.sql)
 - [Excel functions for data cleaning and transformation](#) (*in progress*)
 - [Python scripts for data preparation](#) (*in progress*)
 - [Power BI Report File](#) (*in progress*)
