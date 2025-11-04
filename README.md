@@ -44,9 +44,10 @@ An econometrics analysis focused on how industry affects annual salary earnings.
 
 ### Upcoming Data Analysis Initiative
 
-This section is reserved for future data analysis work designed to expand my portfolio with diverse datasets and complex requirements. Planned work will demonstrate my ability to approach new problems, document workflows, and create actionable insights using various data analysis tools & software.  
+This section displays my freelance data analysis work designed to expand my portfolio with diverse datasets and complex requirements.   
 
-**Repository Contents (planned):**
+**Repository Contents:**
+- [SQL Data Cleaning Showcase]()
 - [Excel functions for data cleaning and transformation](#) (*in progress*)
 - [Python scripts for data preparation](#) (*in progress*)
 - [Power BI Report File](#) (*in progress*)
