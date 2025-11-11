@@ -50,6 +50,7 @@ This section displays my freelance data analysis work designed to expand my port
 
 \- Completed Work
 - [SQL Data Cleaning Showcase - Layoffs around the World](Data%20Cleaning%20Project.sql)
+- [Freelance Data Analysis - Layoffs around the World](Exploratory%20Data%20Analysis.sql)
 
 \- Still In Progress
 - [Excel functions for data cleaning and transformation](#) (*in progress*)
